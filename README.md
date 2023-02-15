@@ -35,4 +35,5 @@ IV. Word vectorization and model training
 
 ## Execution:
 open terminal in the /NLP_Projet and input:
-``jupyter notebook`
+
+`jupyter notebook`
