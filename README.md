@@ -37,3 +37,5 @@ IV. Word vectorization and model training
 open terminal in the /NLP_Projet and input:
 
 `jupyter notebook`
+
+then click =Prediction_Financial_Indicators=
