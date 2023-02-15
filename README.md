@@ -26,6 +26,13 @@ Different models are generated for each case, and scores are obtained, as well a
 
 ## Process:
 I. Data collecting
+
 II. Text Preprocessing
+
 III. statistics
+
 IV. Word vectorization and model training
+
+## Execution:
+open terminal in the /NLP_Projet and input:
+``jupyter notebook`
