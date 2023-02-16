@@ -56,6 +56,11 @@ Then we processed the economic news in three different ways: no processing, nltk
 
 Different models are generated for each case, and scores are obtained, as well as test prediction results
 
+## Data description
+This data was collected through Kaggle : https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
+
+This dataset (FinancialPhraseBank) contains the sentiments for financial news headlines from the perspective of a retail investor. And the dataset contains two columns, "Sentiment" and "News Headline". The sentiment can be negative, neutral or positive.
+
 ## Process:
 I. Data collecting
 ```Python
